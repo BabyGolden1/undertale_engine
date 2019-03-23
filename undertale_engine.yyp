@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "03f490e1-d798-4a37-854a-664f2c8422e0",
+            "Value": {
+                "id": "65911d7b-0315-4037-82fe-51d885714643",
+                "resourcePath": "sounds\\bgm_horror\\bgm_horror.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0437d375-99c5-4546-8f5f-050efbce8e9e",
             "Value": {
                 "id": "c3982b82-a6ea-4442-b7d0-dc44905372d4",
@@ -2127,6 +2135,14 @@
             }
         },
         {
+            "Key": "6dfaba6b-22b8-46ad-8f89-c6be65a82264",
+            "Value": {
+                "id": "21ea2edd-d293-4118-ae95-fd7a2b03fb5c",
+                "resourcePath": "objects\\chara_room_overlay\\chara_room_overlay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e0de224-4adc-4566-81d2-69230b734eaa",
             "Value": {
                 "id": "444bb619-e872-4434-a94f-cca1ed9e9bd3",
@@ -3380,6 +3396,14 @@
                 "id": "da2ba9e3-6bf4-4c55-b26d-96b1136d283b",
                 "resourcePath": "scripts\\Macro_Shop\\Macro_Shop.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b1caa9f9-9e1f-4367-8e6b-95fb737e587d",
+            "Value": {
+                "id": "b320efbf-5249-4363-8642-edbbf9d6e7ae",
+                "resourcePath": "objects\\upstairs_hallway_overlay\\upstairs_hallway_overlay.yy",
+                "resourceType": "GMObject"
             }
         },
         {

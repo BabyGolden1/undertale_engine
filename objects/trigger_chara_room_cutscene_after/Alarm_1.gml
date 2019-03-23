@@ -7,4 +7,4 @@ instance_create_depth(X,Y,0,char_player);
 char_player.dir=DIR.RIGHT;
 audio_play_sound(snd_noise,0,false);
 
-Flag_Set(FLAG_TYPE.STATIC,FLAG_STATIC.PLOT,PLOT.CHARA_BEATEN);
+Player_SetPlot(PLOT.CHARA_BEATEN);
