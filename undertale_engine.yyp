@@ -2183,6 +2183,14 @@
             }
         },
         {
+            "Key": "71b8b8dd-591d-46d2-bb82-feac2eb33c7e",
+            "Value": {
+                "id": "8bf2cc86-4678-4664-9523-33fbd4bbc2b9",
+                "resourcePath": "scripts\\Player_SetPlot\\Player_SetPlot.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "721d43a8-5528-47bb-a304-0318a5f21367",
             "Value": {
                 "id": "cb8e57db-faaa-4375-880f-4652743ec99b",
@@ -2611,6 +2619,14 @@
             "Value": {
                 "id": "eb34b71b-8e6c-46d1-957f-8ad06b59af19",
                 "resourcePath": "scripts\\Battle_GetEnemyCenterPosX\\Battle_GetEnemyCenterPosX.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "889fce8f-94d0-45a8-9dbc-dbfc9956a218",
+            "Value": {
+                "id": "698b6b63-8450-4c10-91ef-10d149e4c932",
+                "resourcePath": "scripts\\Player_GetPlot\\Player_GetPlot.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -4103,6 +4119,14 @@
             }
         },
         {
+            "Key": "d6528e52-b252-4e7f-b035-3f4f8d18f93e",
+            "Value": {
+                "id": "dd3876d4-f4d7-4911-bcd9-b6ff920060d9",
+                "resourcePath": "scripts\\Player_GetTextTyperChoice\\Player_GetTextTyperChoice.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d6a85620-73fb-4725-a2d0-ae4ba4adcbb4",
             "Value": {
                 "id": "2e925be7-1ca9-46f2-87e0-473e08428b26",
@@ -5081,6 +5105,8 @@
         "a9bd20ba-6a00-4de6-b1ff-df13734ff8b4",
         "f81aa669-00f6-4e26-9cc9-9c1fb6e4afc8",
         "0b0d069a-2ee3-4fb2-b77f-e7062c4f48cd",
+        "889fce8f-94d0-45a8-9dbc-dbfc9956a218",
+        "71b8b8dd-591d-46d2-bb82-feac2eb33c7e",
         "980f80b5-ef66-4917-b4c5-67a01c32dac6",
         "2e84d6a7-676c-4a74-a60e-f7e6e2b09467",
         "00fd8b8e-2ca4-4778-8f3c-b5919e5b6b73",
@@ -5121,6 +5147,7 @@
         "d46f2393-142a-4ead-9c20-3266fac2765d",
         "8a98a566-fba1-4513-8c37-551243c24851",
         "1fbb1f81-9d8e-4b69-a7d0-0737937996c9",
+        "d6528e52-b252-4e7f-b035-3f4f8d18f93e",
         "9f8cca73-7064-4df7-a0d9-183eb8469fd9",
         "73f3215e-7994-434d-b78f-77ff4f280a80",
         "c1099f20-0cfa-4dfd-9b77-8af3d002680f",
