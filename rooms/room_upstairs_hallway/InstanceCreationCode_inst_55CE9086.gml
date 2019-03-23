@@ -1,0 +1,2 @@
+target_room=room_downstairs_hallway;
+target_landmark=0;

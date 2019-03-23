@@ -2,7 +2,7 @@
     "id": "b1caa9f9-9e1f-4367-8e6b-95fb737e587d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "upstairs_hallway_overlay",
+    "name": "house_overlay",
     "eventList": [
         {
             "id": "2f3110fd-3a26-4579-8cbb-40341a80d443",
