@@ -1,0 +1,2 @@
+visible=false;
+text="* It's a picture of you and&  your \"Parents\"...{pause}{clear}* (As you look at it your&  throat tightens a little){pause}{clear}* Haha...{pause}{clear}* The tears wont stop pouring from&  your face...";

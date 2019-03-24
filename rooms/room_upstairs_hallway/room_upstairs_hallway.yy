@@ -20,10 +20,39 @@
         "3bafd636-b5e0-406f-a76a-fdbabcb44205",
         "db9854b7-f48a-4b1f-8a42-8997e83c6dc0",
         "92012019-762a-4236-8d9e-94c206b1dae4",
-        "b5650355-97ab-4d74-8b2e-8e183fba2915"
+        "b5650355-97ab-4d74-8b2e-8e183fba2915",
+        "192b4a4e-f9e9-4add-99ae-a5dec2d1cf37",
+        "460099bf-673a-469b-a9ef-52ab39555811"
     ],
     "IsDnD": false,
     "layers": [
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Light",
+            "id": "69f58961-6761-435b-a6ce-b5aca9cf3944",
+            "depth": -100,
+            "grid_x": 10,
+            "grid_y": 10,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_35D5A307","id": "192b4a4e-f9e9-4add-99ae-a5dec2d1cf37","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_35D5A307.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_35D5A307","objId": "6ae1a397-c632-44d6-912e-ddbd027d1d96","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 20,"y": 0},
+{"name": "inst_6778966E","id": "460099bf-673a-469b-a9ef-52ab39555811","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_6778966E.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6778966E","objId": "231a6076-8ffc-4c32-8317-52a35dbaeaf0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 250,"y": 120}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
